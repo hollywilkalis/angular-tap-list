@@ -11,8 +11,8 @@ This is a tap list built in Angular2, with functionality to hide and display cur
 ## Setup/Installation Requirements
 
 * In terminal (or other tool used to access command line), navigate to location where files will be saved
-* To clone, run command $ git clone https://github.com/hollywilkalis/my-zoo.git
-* Change into project directory $ cd my-zoo
+* To clone, run command $ git clone https://github.com/hollywilkalis/angular-tap-list.git
+* Change into project directory $ cd angular-tap-list
 
 
 ## Support and contact details
@@ -24,7 +24,7 @@ Holly Wilkalis, holly.wilkalis@gmail.com
 
 Copyright (c) 2017 **Holly Wilkalis, John Sawris**
 
-# Technologies used
+## Technologies used
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
