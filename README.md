@@ -1,4 +1,30 @@
-# TapRoom
+# Tap Room 
+
+#### Tap List for hypothetical bar
+
+#### By Holly Wilkalis, John Sawris
+
+## Description
+
+This is a tap list built in Angular2, with functionality to hide and display current kegs, filter or highlight beers by various features, and add/edit kegs.
+
+## Setup/Installation Requirements
+
+* In terminal (or other tool used to access command line), navigate to location where files will be saved
+* To clone, run command $ git clone https://github.com/hollywilkalis/my-zoo.git
+* Change into project directory $ cd my-zoo
+
+
+## Support and contact details
+
+Holly Wilkalis, holly.wilkalis@gmail.com
+
+
+### License: *MIT*
+
+Copyright (c) 2017 **Holly Wilkalis, John Sawris**
+
+# Technologies used
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
@@ -25,3 +51,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
